@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Budget Corner Inventory Management System<br>🌱 I’m currently HTML, CSS, JavaScript<br>
+🔭 I’m currently working on Inventory Management System<br>🌱 I’m currently HTML, CSS, JavaScript<br>
 
 
 ## 🌐 Socials:
