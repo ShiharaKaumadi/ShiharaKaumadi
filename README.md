@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Inventory Management System<br>🌱 I’m currently learning HTML, CSS, JavaScript<br>
+🔭 I’m currently working on Travelling Website<br>🌱 I’m currently learning HTML, CSS, JavaScript<br>
 
 
 ## 🌐 Socials:
